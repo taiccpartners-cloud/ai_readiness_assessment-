@@ -1,6 +1,10 @@
 streamlit
-firebase-admin
-google-generativeai
 fpdf
+google-generativeai
+pyrebase4
 sendgrid
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
 razorpay
