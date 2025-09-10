@@ -1,10 +1,10 @@
 streamlit
-pandas
 fpdf
-google-generativeai
 pyrebase4
-sendgrid
-requests
+google-generativeai
 google-api-python-client
-oauth2client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
 razorpay
+sendgrid
